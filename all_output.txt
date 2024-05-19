@@ -1,0 +1,170 @@
+Contents of output_clean1/part-r-00003:
+FRANKLIN	66
+SULLIVAN	153
+
+Contents of output_clean1/part-r-00004:
+ORANGE	429
+
+Contents of output_clean1/part-r-00005:
+CHEMUNG	105
+CHENANGO	75
+ONTARIO	129
+
+Contents of output_clean1/part-r-00007:
+MONROE	713
+SCHUYLER	31
+
+Contents of output_clean1/part-r-00008:
+ONONDAGA	532
+
+Contents of output_clean1/part-r-00009:
+ESSEX	82
+SCHENECTADY	197
+
+Contents of output_clean1/part-r-00010:
+CATTARAUGUS	92
+YATES	53
+
+Contents of output_clean1/part-r-00011:
+TIOGA	50
+
+Contents of output_clean1/part-r-00012:
+
+Contents of output_clean1/part-r-00003:
+FRANKLIN	66
+SULLIVAN	153
+
+Contents of output_clean1/part-r-00004:
+ORANGE	429
+
+Contents of output_clean1/part-r-00005:
+CHEMUNG	105
+CHENANGO	75
+ONTARIO	129
+
+Contents of output_clean1/part-r-00007:
+MONROE	713
+SCHUYLER	31
+
+Contents of output_clean1/part-r-00008:
+ONONDAGA	532
+
+Contents of output_clean1/part-r-00009:
+ESSEX	82
+SCHENECTADY	197
+
+Contents of output_clean1/part-r-00010:
+CATTARAUGUS	92
+YATES	53
+
+Contents of output_clean1/part-r-00011:
+TIOGA	50
+
+Contents of output_clean1/part-r-00012:
+PUTNAM	91
+ST. LAWRENCE	143
+
+Contents of output_clean1/part-r-00016:
+ORLEANS	51
+
+Contents of output_clean1/part-r-00017:
+CLINTON	127
+
+Contents of output_clean1/part-r-00018:
+ALBANY	374
+
+Contents of output_clean1/part-r-00019:
+CAYUGA	83
+
+Contents of output_clean1/part-r-00020:
+CHAUTAUQUA	150
+LEWIS	42
+LIVINGSTON	72
+NASSAU	1143
+NEW YORK	1891
+WAYNE	107
+WYOMING	46
+
+Contents of output_clean1/part-r-00021:
+BROOME	240
+COLUMBIA	134
+RENSSELAER	199
+
+Contents of output_clean1/part-r-00022:
+	3
+ERIE	1122
+
+Contents of output_clean1/part-r-00023:
+SENECA	49
+TOMPKINS	96
+
+Contents of output_clean1/part-r-00024:
+DELAWARE	101
+DUTCHESS	383
+QUEENS	2535
+
+Contents of output_clean1/part-r-00025:
+CORTLAND	65
+HERKIMER	72
+MADISON	89
+WASHINGTON	77
+WESTCHESTER	979
+
+Contents of output_clean1/part-r-00026:
+NIAGARA	243
+
+Contents of output_clean1/part-r-00027:
+ALLEGANY	68
+
+Contents of output_clean1/part-r-00028:
+FULTON	65
+WARREN	128
+
+Contents of output_clean1/part-r-00029:
+JEFFERSON	157
+
+Contents of output_clean1/part-r-00032:
+GENESEE	79
+
+Contents of output_clean1/part-r-00033:
+RICHMOND	510
+
+Contents of output_clean1/part-r-00034:
+KINGS	4184
+
+Contents of output_clean1/part-r-00035:
+GREENE	77
+
+Contents of output_clean1/part-r-00036:
+County	1
+
+Contents of output_clean1/part-r-00037:
+SUFFOLK	1649
+
+Contents of output_clean1/part-r-00038:
+ULSTER	295
+
+Contents of output_clean1/part-r-00039:
+STEUBEN	134
+
+Contents of output_clean1/part-r-00041:
+MONTGOMERY	86
+
+Contents of output_clean1/part-r-00042:
+ONEIDA	316
+SCHOHARIE	56
+
+Contents of output_clean1/part-r-00043:
+HAMILTON	16
+OSWEGO	122
+ROCKLAND	312
+
+Contents of output_clean1/part-r-00044:
+OTSEGO	98
+
+Contents of output_clean1/part-r-00045:
+BRONX	2199
+
+Contents of output_clean1/part-r-00046:
+SARATOGA	231
+
